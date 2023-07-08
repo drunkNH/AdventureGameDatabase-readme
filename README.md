@@ -1,3 +1,4 @@
+>This is a README from a private repo named 'AdventureGameDatabase' from December 15, 2022. The source code is unavaliable for public view. Contact me to learn more about the inner workings of this project.
 # Adventure Game Database
 This project features a small Adventure Game database in PostgreSQL, and performing application programming techniques onto the database. This project was done as part of the course CSE 180: Database Systems 1 at the University of California, Santa Cruz
 # Application Programming Approaches used
